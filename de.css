@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(119, 119, 227);
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    color: black;
+    font-size: 22px;
+}
+main{
+    color: black;
+    font-size: 25px;
+}
+footer{
+    background-color: rgb(108, 108, 228);
+    font-size: 15px;
+    text-align: center;
+}
